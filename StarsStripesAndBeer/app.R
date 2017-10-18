@@ -123,14 +123,13 @@
        })
        
        
-       output$table <- DT::renderDataTable(BrewsCoords_table(),extensions = 'FixedHeader', rownames=FALSE,
+       output$table <- DT::renderDataTable(BrewsCoords_table(), rownames=FALSE,
                                            options = list(paging=FALSE,
                                                           order = list(list(1,'asc')),
                                                           initComplete = JS(
                                                             "function(settings, json) {",
                                                             "$(this.api().table().header()).css({'background-color': '#000', 'color': '#fff'});",
-                                                            "}"),
-                                                          fixedHeader=TRUE))
+                                                            "}")))
                                         
        
      })
