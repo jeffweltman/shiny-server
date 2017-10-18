@@ -1,0 +1,52 @@
+"BreweryCount","State","StateLong","City","lat","long","ABV","IBU"
+6,"AK","Alaska","Juneau",58.3014,-134.422,0.057,46
+3,"AL","Alabama","Montgomery",32.3617,-86.2792,0.06,43
+1,"AR","Arkansas","Little Rock",34.7361,-92.3311,0.04,39
+6,"AZ","Arizona","Phoenix",33.45,-112.067,0.0575,20.5
+31,"CA","California","Sacramento",38.5556,-121.469,0.058,42
+35,"CO","Colorado","Denver",39.7618,-104.881,0.065,40
+3,"CT","Connecticut","Hartford",41.7627,-72.6743,0.061,29
+1,"DC","District of Columbia","Washington, DC",38.889,-77.009,0.059,47.5
+1,"DE","Delaware","Dover",39.1619,-75.5267,0.055,52
+10,"FL","Florida","Tallahassee",30.455,-84.2533,0.062,55
+5,"GA","Georgia","Atlanta",33.755,-84.39,0.062,55
+3,"HI","Hawaii","Honolulu",21.3,-157.817,0.052,22.5
+4,"IA","Iowa","Des Moines",41.5908,-93.6208,0.056,26
+5,"ID","Idaho","Boise",43.6167,-116.2,0.058,39
+10,"IL","Illinois","Springfield",39.6983,-89.6197,0.057,30
+17,"IN","Indiana","Indianapolis",39.791,-86.148,0.057,33
+3,"KS","Kansas","Topeka",39.0558,-95.6894,0.05,20
+2,"KY","Kentucky","Frankfort",38.197,-84.863,0.0575,31.5
+3,"LA","Louisiana","Baton Rouge",30.45,-91.14,0.051,31.5
+12,"MA","Massachusetts","Boston",42.3581,-71.0636,0.054,35
+4,"MD","Maryland","Annapolis",38.9729,-76.5012,0.0565,29
+4,"ME","Maine","Augusta",44.307,-69.782,0.067,61
+15,"MI","Michigan","Lansing",42.7336,-84.5467,0.056,35
+11,"MN","Minnesota","Saint Paul",44.9442,-93.0936,0.0555,44.5
+9,"MO","Missouri","Jefferson City",38.5767,-92.1736,0.05,24
+2,"MS","Mississippi","Jackson",32.2989,-90.1847,0.058,45
+4,"MT","Montana","Helena",46.5958,-112.027,0.057,40
+11,"NC","North Carolina","Raleigh",35.7667,-78.6333,0.061,33.5
+1,"ND","North Dakota","Bismarck",46.8133,-100.779,0.05,32
+2,"NE","Nebraska","Lincoln",40.8106,-96.6803,0.056,35
+1,"NH","New Hampshire","Concord",43.2067,-71.5381,0.0465,48.5
+3,"NJ","New Jersey","Trenton",40.2237,-74.764,0.046,34.5
+3,"NM","New Mexico","Santa Fe",35.6672,-105.964,0.061,51
+2,"NV","Nevada","Carson City",39.1608,-119.754,0.055,41
+12,"NY","New York","Albany",42.6525,-73.7572,0.0595,47
+9,"OH","Ohio","Columbus",39.9833,-82.9833,0.0575,40
+5,"OK","Oklahoma","Oklahoma City",35.4822,-97.535,0.063,35
+21,"OR","Oregon","Salem",44.9308,-123.029,0.056,40
+13,"PA","Pennsylvania","Harrisburg",40.2697,-76.8756,0.057,30
+4,"RI","Rhode Island","Providence",41.8236,-71.4222,0.0525,24
+2,"SC","South Carolina","Columbia",34.0006,-81.0347,0.05,30
+1,"SD","South Dakota","Pierre",44.368,-100.336,0.06,0
+3,"TN","Tennessee","Nashville",36.1667,-86.7833,0.055,37
+23,"TX","Texas","Austin",30.25,-97.75,0.055,33
+2,"UT","Utah","Salt Lake City",40.75,-111.883,0.04,34
+14,"VA","Virginia","Richmond",37.5333,-77.4667,0.057,42
+8,"VT","Vermont","Montpelier",44.2597,-72.575,0.055,30
+16,"WA","Washington","Olympia",47.0425,-122.893,0.056,38
+9,"WI","Wisconsin","Madison",43.0667,-89.4,0.051,19
+1,"WV","West Virginia","Charleston",38.3472,-81.6333,0.062,57.5
+3,"WY","Wyoming","Cheyenne",41.1456,-104.802,0.051,21

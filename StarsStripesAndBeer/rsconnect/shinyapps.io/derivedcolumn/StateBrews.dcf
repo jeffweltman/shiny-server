@@ -1,0 +1,12 @@
+name: StateBrews
+title: StateBrews
+username:
+account: derivedcolumn
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 223388
+bundleId: 1033059
+url: https://jeffweltman.shinyapps.io/StateBrews/
+when: 1508340270.06906
+asMultiple: FALSE
+asStatic: FALSE
