@@ -144,12 +144,6 @@
      mainPanel(
        br(),
        tabsetPanel(
-         tabPanel("Presentation",
-                  br(),
-                  includeMarkdown("StarsStripesAndBeerFinal.md")),
-         tabPanel("Codebook",
-                  br(),
-                  includeMarkdown("Codebook.md")),
          tabPanel("Beer Info Per State",
                   br(),
                   h4("Click on a state to display information about that state's beers. More information is available in the table below."),
@@ -178,8 +172,14 @@
                   em(h4("The following plot illustrates the distribution of the volume of each beer in fluid ounces.")),
                   br(),
                   plotOutput("Ounces")
-                  )
-         
+                  ),
+         tabPanel("Presentation",
+                  br(),
+                  includeMarkdown("StarsStripesAndBeerFinal.md")),
+         tabPanel("Codebook",
+                  br(),
+                  includeMarkdown("Codebook.md"))     
+        
        )
      )  
    )    
