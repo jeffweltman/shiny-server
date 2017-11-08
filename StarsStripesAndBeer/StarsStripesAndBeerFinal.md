@@ -1,5 +1,6 @@
 # An Analysis of Characteristic Relationships of Craft Beer
 Jeff Weltman
+
 October 12, 2017  
 
 ### *For course project purposes, all R chunks were set to ECHO=TRUE. This would typically not be the case for presentation documents.*
@@ -448,7 +449,7 @@ ggplot(BeerFacts.long,aes(x=State,y=value,fill=factor(variable)))+
 ## which will replace the existing scale.
 ```
 
-![](bar-1.png)<!-- -->
+![](bar-1.png)
 
 This bar plot shows median ABV data per state:
 
@@ -460,7 +461,7 @@ ggplot(ABV_ByState,aes(State,ABV))+
   coord_flip() # sets value on y axis, States on x. Commenting out the + above and this line will reverse
 ```
 
-![](bar2-1.png)<!-- -->
+![](bar2-1.png)
 
 This bar plot shows median IBU data per state (South Dakota == 0):
 
@@ -472,7 +473,7 @@ ggplot(IBU_ByState,aes(State,IBU))+
   coord_flip() # sets value on y axis, States on x. Commenting out the + above and this line will reverse
 ```
 
-![](bar3-1.png)<!-- -->
+![](bar3-1.png)
 
 We determined which state had the highest ABV. 
 
@@ -518,7 +519,7 @@ print(summary(BrewsAndBreweries$ABV))
 plot(x=BrewsAndBreweries$ABV, y=BrewsAndBreweries$IBU, xlab = "Alcohol Content (ABV)", ylab = "Bitterness (IBU)", main = "Relationship Between Bitterness and Alcohol Content")
 ```
 
-![](initial scatter plot-1.png)<!-- -->
+![](initial scatter plot-1.png)
 
 To confirm, we ran a correlation test to get Pearson's R, which indicated that 66.6% of the variation in IBU is explained by a change in ABV. 
 
@@ -582,7 +583,7 @@ ggplot(data = BrewsAndBreweries, aes(x=ABV, y=IBU, color = ABVlvl))+
   ggtitle("Correlation Between ABV and IBU")
 ```
 
-![](scatter2-1.png)<!-- -->
+![](scatter2-1.png)
 
 
 ## Conclusion
