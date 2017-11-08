@@ -2,6 +2,7 @@
 Jeff Weltman  
 October 12, 2017  
 
+### *For course project purposes, these R chunks were all set to ECHO=TRUE. This would typically not be the case for presentation documents.*
 
 ## Project Description
 W&W Analytics has been commissioned by *Stars, Stripes, and Beer Co.* - hereafter referred to as *SS&B* - to analyze a sample of the craft beer market in order to answer the following research questions:
