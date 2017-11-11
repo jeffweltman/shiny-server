@@ -1,5 +1,6 @@
 # An Analysis of Characteristic Relationships of Craft Beer
 Jeff Weltman
+
 Claudia Woodruff
 October 12, 2017  
 
