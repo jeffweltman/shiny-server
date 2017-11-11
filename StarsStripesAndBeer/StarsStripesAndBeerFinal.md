@@ -2,6 +2,7 @@
 Jeff Weltman
 
 Claudia Woodruff
+
 October 12, 2017  
 
 ### *For course project purposes, all R chunks were set to ECHO=TRUE. This would typically not be the case for presentation documents.*
